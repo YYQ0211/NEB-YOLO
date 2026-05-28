@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>kiwi751_jpg.rf.4325ad91a5004f2e8ccac3d5b4479b79.jpg</filename>
+	<path>kiwi751_jpg.rf.4325ad91a5004f2e8ccac3d5b4479b79.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kiwi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>129</xmin>
+			<xmax>460</xmax>
+			<ymin>93</ymin>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+</annotation>

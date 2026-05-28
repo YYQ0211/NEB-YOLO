@@ -1,0 +1,11 @@
+C:\Users\think\.conda\envs\yolo\python.exe D:\YYQ\.Trash-1000\files\ultralytics-yolo11-main\get_FPS.py
+Ultralytics 8.3.9 🚀 Python-3.9.20 torch-2.5.1 CUDA:0 (NVIDIA GeForce RTX 4090 D, 24564MiB)
+YOLOv8 summary (fused): 168 layers, 3,371,024 parameters, 0 gradients, 9.8 GFLOPs
+Loaded D:\YYQ\.Trash-1000\files\ultralytics-yolo11-main\runs\train\cub\yolov8nload(79.95)\weights\last.pt
+begin warmup...
+warmup....: 100%|██████████| 200/200 [00:00<00:00, 203.67it/s]
+test latency....:   0%|          | 0/1000 [00:00<?, ?it/s]begin test latency...
+test latency....: 100%|██████████| 1000/1000 [00:05<00:00, 190.55it/s]
+model weights:D:\YYQ\.Trash-1000\files\ultralytics-yolo11-main\runs\train\cub\yolov8nload(79.95)\weights\last.pt size:6.7M (bs:1)Latency:0.00520s +- 0.00236s fps:192.2
+
+Process finished with exit code 0

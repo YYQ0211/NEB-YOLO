@@ -1,0 +1,6 @@
+train: E:\WPS Cloud\OpenCV\ultralytics-yolo11-main\ultralytics\VOCdevkit-kiwi\VOC2007\train.txt
+val: E:\WPS Cloud\OpenCV\ultralytics-yolo11-main\ultralytics\VOCdevkit-kiwi\VOC2007\val.txt
+# test: ./dataSet/ImageSets/Main/test.txt
+
+nc: 1
+names: ['kiwi']
